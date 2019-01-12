@@ -1,4 +1,5 @@
 import java.util.*;
+// implementation of queue class
     public class mainq{
         public static void main(String args[]){
             queue q=new queue();
